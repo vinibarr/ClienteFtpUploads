@@ -1,0 +1,8 @@
+[SERVIDOR]
+HOST=xx.xxx.xxx.xxx
+USER=username
+PASSWORD=yourpassword
+PORT=yourport
+[PASTAS]
+ORIGEM=/source/uploads
+DESTINO=C:\temp\uploads

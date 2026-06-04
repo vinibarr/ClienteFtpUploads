@@ -1,0 +1,99 @@
+object frmPrincipal: TfrmPrincipal
+  Left = 510
+  Height = 640
+  Top = 193
+  Width = 804
+  Caption = 'Cliente FTP'
+  ClientHeight = 640
+  ClientWidth = 804
+  Position = poScreenCenter
+  LCLVersion = '4.6.0.0'
+  OnCreate = FormCreate
+  object Memo1: TMemo
+    Left = 0
+    Height = 494
+    Top = 96
+    Width = 804
+    Align = alClient
+    Color = clBlack
+    Font.Color = 65408
+    Font.Style = [fsBold]
+    ParentFont = False
+    ScrollBars = ssAutoBoth
+    TabOrder = 0
+  end
+  object pnlTop: TPanel
+    Left = 0
+    Height = 96
+    Top = 0
+    Width = 804
+    Align = alTop
+    Caption = 'pnlTop'
+    ClientHeight = 96
+    ClientWidth = 804
+    TabOrder = 1
+    object btnConecta: TButton
+      Left = 24
+      Height = 25
+      Top = 8
+      Width = 75
+      Caption = 'Conecta'
+      TabOrder = 0
+      OnClick = btnConectaClick
+    end
+    object btnDisconecta: TButton
+      Left = 136
+      Height = 25
+      Top = 8
+      Width = 75
+      Caption = 'Desconecta'
+      TabOrder = 1
+      OnClick = btnDisconectaClick
+    end
+    object btnDownload: TButton
+      Left = 256
+      Height = 25
+      Top = 8
+      Width = 75
+      Caption = 'Download'
+      TabOrder = 2
+      OnClick = btnDownloadClick
+    end
+  end
+  object pnlBottom: TPanel
+    Left = 0
+    Height = 50
+    Top = 590
+    Width = 804
+    Align = alBottom
+    Caption = 'pnlBottom'
+    TabOrder = 2
+  end
+  object IdFTP1: TIdFTP
+    Host = '45.224.131.242'
+    Passive = True
+    PassiveUseControlHost = True
+    ConnectTimeout = 0
+    Password = '32738618@Vini'
+    TransferType = ftBinary
+    Username = 'vinibar'
+    Port = 2727
+    NATKeepAlive.UseKeepAlive = False
+    NATKeepAlive.IdleTimeMS = 0
+    NATKeepAlive.IntervalMS = 0
+    ProxySettings.ProxyType = fpcmNone
+    ProxySettings.Port = 0
+    ServerHOST = '45.224.131.242'
+    Left = 504
+    Top = 8
+  end
+  object IdAntiFreeze1: TIdAntiFreeze
+    Left = 608
+    Top = 8
+  end
+  object Timer1: TTimer
+    OnTimer = Timer1Timer
+    Left = 704
+    Top = 8
+  end
+end

@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="ClienteFTP.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="29"/>
+      </Unit>
+      <Unit>
+        <Filename Value="untprincipal.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmPrincipal"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="untPrincipal"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="96"/>
+        <CursorPos X="3" Y="98"/>
+        <UsageCount Value="29"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="funcoes.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Funcoes"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="232"/>
+        <CursorPos X="28" Y="42"/>
+        <UsageCount Value="28"/>
+      </Unit>
+      <Unit>
+        <Filename Value="c:\lazarus64\onlinepackagemanager\packages\Indy10\Protocols\IdFTPListParseBase.pas"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="49"/>
+        <CursorPos X="26" Y="9"/>
+        <UsageCount Value="12"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="c:\lazarus64\onlinepackagemanager\packages\Indy10\Protocols\IdFTPListParseWindowsNT.pas"/>
+        <EditorIndex Value="3"/>
+        <CursorPos X="68" Y="9"/>
+        <UsageCount Value="12"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="c:\lazarus64\onlinepackagemanager\packages\Indy10\Core\IdReplyRFC.pas"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="221"/>
+        <CursorPos X="65" Y="247"/>
+        <UsageCount Value="12"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="c:\lazarus64\onlinepackagemanager\packages\Indy10\Protocols\IdReplyFTP.pas"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="232"/>
+        <CursorPos X="15" Y="239"/>
+        <UsageCount Value="12"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="untprincipal.pas"/>
+        <Caret Line="162" TopLine="145"/>
+      </Position>
+      <Position>
+        <Filename Value="untprincipal.pas"/>
+        <Caret Line="164" TopLine="145"/>
+      </Position>
+      <Position>
+        <Filename Value="untprincipal.pas"/>
+        <Caret Line="166" TopLine="145"/>
+      </Position>
+      <Position>
+        <Filename Value="untprincipal.pas"/>
+        <Caret Line="170" TopLine="145"/>
+      </Position>
+      <Position>
+        <Filename Value="untprincipal.pas"/>
+        <Caret Line="171" TopLine="145"/>
+      </Position>
+      <Position>
+        <Filename Value="untprincipal.pas"/>
+        <Caret Line="179" TopLine="162"/>
+      </Position>
+      <Position>
+        <Filename Value="untprincipal.pas"/>
+        <Caret Line="183" TopLine="162"/>
+      </Position>
+      <Position>
+        <Filename Value="untprincipal.pas"/>
+        <Caret Line="185" TopLine="162"/>
+      </Position>
+      <Position>
+        <Filename Value="untprincipal.pas"/>
+        <Caret Line="182" Column="60" TopLine="163"/>
+      </Position>
+      <Position>
+        <Filename Value="untprincipal.pas"/>
+        <Caret Line="337" Column="76" TopLine="259"/>
+      </Position>
+      <Position>
+        <Filename Value="c:\lazarus64\onlinepackagemanager\packages\Indy10\Protocols\IdFTPListParseBase.pas"/>
+        <Caret Line="365" Column="106" TopLine="344"/>
+      </Position>
+      <Position>
+        <Filename Value="untprincipal.pas"/>
+        <Caret Line="337" Column="76" TopLine="259"/>
+      </Position>
+      <Position>
+        <Filename Value="untprincipal.pas"/>
+      </Position>
+      <Position>
+        <Filename Value="untprincipal.pas"/>
+        <Caret Line="22" Column="90"/>
+      </Position>
+      <Position>
+        <Filename Value="untprincipal.pas"/>
+        <Caret Line="325" Column="41" TopLine="317"/>
+      </Position>
+      <Position>
+        <Filename Value="untprincipal.pas"/>
+        <Caret Line="9" Column="41"/>
+      </Position>
+      <Position>
+        <Filename Value="untprincipal.pas"/>
+        <Caret Line="15" Column="73"/>
+      </Position>
+      <Position>
+        <Filename Value="untprincipal.pas"/>
+        <Caret Line="9" Column="41"/>
+      </Position>
+      <Position>
+        <Filename Value="untprincipal.pas"/>
+        <Caret Line="10" Column="16"/>
+      </Position>
+      <Position>
+        <Filename Value="untprincipal.pas"/>
+        <Caret Line="9" Column="41"/>
+      </Position>
+      <Position>
+        <Filename Value="untprincipal.pas"/>
+        <Caret Line="20" Column="72"/>
+      </Position>
+      <Position>
+        <Filename Value="untprincipal.pas"/>
+        <Caret Line="22" Column="65"/>
+      </Position>
+      <Position>
+        <Filename Value="untprincipal.pas"/>
+        <Caret Line="352" Column="5" TopLine="317"/>
+      </Position>
+      <Position>
+        <Filename Value="untprincipal.pas"/>
+        <Caret Line="9" Column="41"/>
+      </Position>
+      <Position>
+        <Filename Value="untprincipal.pas"/>
+        <Caret Line="16" Column="95"/>
+      </Position>
+      <Position>
+        <Filename Value="untprincipal.pas"/>
+        <Caret Line="381" Column="5" TopLine="346"/>
+      </Position>
+      <Position>
+        <Filename Value="untprincipal.pas"/>
+        <Caret Line="130" Column="89" TopLine="111"/>
+      </Position>
+      <Position>
+        <Filename Value="untprincipal.pas"/>
+        <Caret Line="381" Column="5" TopLine="346"/>
+      </Position>
+      <Position>
+        <Filename Value="untprincipal.pas"/>
+        <Caret Line="193" Column="157" TopLine="173"/>
+      </Position>
+      <Position>
+        <Filename Value="untprincipal.pas"/>
+        <Caret Line="111" Column="30" TopLine="98"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
